@@ -12,15 +12,15 @@ some screenshot :)
 
 > Kitty
 
-<img src="" />
+![Kitty](https://user-images.githubusercontent.com/97107165/220931821-6632bd78-d67c-4bbb-a01d-7b06dab45936.png)
 
 > Neovide
 
-<img src="" />
+![neovide](https://user-images.githubusercontent.com/97107165/220931862-f0be300b-0f94-4f8f-951a-8cb215286b10.png)
 
 ----
 
-TODO:
+> TODO:
 ```text
 REDISIGN *
 REDISIGN SOME UNICODE
