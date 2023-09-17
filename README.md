@@ -1,10 +1,10 @@
 # Fixedsys Excelsior Nerd Font
 
-This font is based on Fixedsys Excelsior and is patched with Nerd Font.
+This font is Fixedsys Excelsior with Nerd Font patching.
 
-I redesigned some punctuation marks and fine-tuned some letters to make it more clear.
+It can be used in terminal emulators like Kitty, Alacritty, or iTerm2.
 
-After testing, the font can alse be used in the terminal emulator like Kitty / Alacritty.
+I've fine-tuned some letters for greater clarity.
 
 ----
 
@@ -19,9 +19,3 @@ some screenshot :)
 ![neovide](https://user-images.githubusercontent.com/97107165/220931862-f0be300b-0f94-4f8f-951a-8cb215286b10.png)
 
 ----
-
-> TODO:
-```text
-REDISIGN *
-REDISIGN SOME UNICODE
-```
